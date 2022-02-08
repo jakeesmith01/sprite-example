@@ -1,4 +1,4 @@
-# sprite-example
+# Sprite Example
 This is a starter project for learning about MonoGame sprites.  
 
 The accompanying video tutorial can be found at [https://youtu.be/qbAUp8KZvww](https://youtu.be/qbAUp8KZvww)
